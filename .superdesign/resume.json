@@ -8,14 +8,14 @@
       "activeDraftId": "903e0b36-aee0-41a6-a5fe-4a8bf6885c3a",
       "designSystemPath": ".superdesign/design-system.md",
       "referenceIds": [
-        "eb83a690-9795-4cc7-acd0-d74c075598f1",
-        "images-eurovilla_logo_50_white_just_text2.svg"
+        "brand-aveora-logo.svg",
+        "8e7e3a2f-f601-434d-9c56-befbd532dbd1"
       ],
       "brandAssets": {
         "logo": {
-          "assetKey": "images-eurovilla_logo_50_white_just_text2.svg",
-          "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/projects/e5896615-28f8-45ae-bf42-955458622771/brand-assets/images-eurovilla_logo_50_white_just_text2.svg/eurovilla_logo_50_white_just_text2.svg",
-          "sourcePath": "images/eurovilla_logo_50_white_just_text2.svg"
+          "assetKey": "brand-aveora-logo.svg",
+          "url": "https://vgbujcuwptvheqijyjbe.supabase.co/storage/v1/object/public/hmac-uploads/projects/e5896615-28f8-45ae-bf42-955458622771/brand-assets/brand-aveora-logo.svg/aveora-logo.svg",
+          "sourcePath": "brand/aveora-logo.svg"
         }
       },
       "contextFiles": [
@@ -26,7 +26,7 @@
         ".superdesign/init/pages.md"
       ],
       "fingerprints": {
-        ".superdesign/design-system.md": "fc66e0c32adcf9fc5c541bc5203f6198498114963f49651c5c1ea89a8863f9f6",
+        ".superdesign/design-system.md": "eb8270c34bd39829fa13fd5b8a918dffe45ecf19a684bfd14aaf2547d8f04bb2",
         ".superdesign/init/theme.md": "84bf10fe941abdca3ee1b661afdc36756a6742594542142f364b87cf64e0860d",
         ".superdesign/init/layouts.md": "bf23b517de3432baa6357eb562e587ce9fb9b9f9097ded97feeee2df46df22cd",
         ".superdesign/init/components.md": "185efbe38b74834fb2eb0d5416b1a2beee262ea5291ea5ff94cb54a7365ad100",
@@ -35,12 +35,12 @@
       "components": [],
       "drafts": {
         "903e0b36-aee0-41a6-a5fe-4a8bf6885c3a": {
-          "title": "Eurovilla English Homepage",
-          "visualDirection": "faithful reproduction of the current English homepage",
-          "currentVersion": 1
+          "title": "AVEORA Estates — Places Worth Living In",
+          "visualDirection": "architectural magazine with a concierge function, cinematic destination diptych, editorial residences, private advisory and bold place-led manifesto",
+          "currentVersion": 4
         }
       },
-      "updatedAt": "2026-09-01T14:27:41.4245670Z"
+      "updatedAt": "2026-09-01T15:24:17.8597660Z"
     }
   }
 }

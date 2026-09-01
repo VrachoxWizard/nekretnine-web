@@ -1,0 +1,7 @@
+.superdesign/tmp/
+node_modules/
+dist/
+.vercel/
+public/assets/images/*.jpg
+.env*
+!.env.example
