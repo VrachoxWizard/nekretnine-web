@@ -1,4 +1,4 @@
-# AVEORA demo asset record
+# AnaMarija Estates demo asset record
 
 These images were exported from the approved Superdesign v4 concept and copied locally so the Vercel build does not depend on temporary project-upload URLs.
 
@@ -15,4 +15,4 @@ They remain **demo assets**. Source and commercial-use rights must be confirmed 
 | `public/assets/images/olive-stone.webp` | `content-aveora-olive-stone/olive_stone.jpg` |
 | `public/assets/images/editorial-interior.webp` | `content-aveora-editorial-interior/edit_main.jpg` |
 | `public/assets/images/villa-entry.webp` | `content-aveora-villa-entry/villa_entry.jpg` |
-| `public/brand/aveora-logo.svg` | Original AVEORA brand asset in `brand/aveora-logo.svg` |
+| `public/brand/aveora-logo.svg` | AnaMarija Estates brand artwork (legacy technical filename) |

@@ -1,20 +1,21 @@
-# AVEORA Estates design system
+# AnaMarija Estates design system
 
 ## Product context and goals
 
-AVEORA Estates is a bilingual Croatian premium real-estate agency concept focused on carefully selected residences in Zagreb and along the Adriatic. The primary job is to let affluent domestic and international buyers immediately explore, filter, save and inquire about a property. The brand should feel discreet, architectural and rooted in Mediterranean materials without resembling Eurovilla.
+AnaMarija Estates is a bilingual Croatian premium real-estate agency concept focused on carefully selected residences in Zagreb and along the Adriatic. The primary job is to let affluent domestic and international buyers immediately explore, filter, save and inquire about a property. The brand should feel discreet, architectural and rooted in Mediterranean materials without resembling Eurovilla.
 
 The initial product includes a homepage, property catalogue, property detail, services, about, contact, privacy and terms in Croatian and English. Demo listings and placeholder company details must be clearly identified; do not invent awards, performance claims, employee identities or client testimonials.
 
 ## Brand identity
 
-- Name: AVEORA Estates.
+- Name: AnaMarija Estates.
 - Croatian hero line: "Prostori vrijedni življenja."
 - English hero line: "Places worth living in."
 - Supporting Croatian copy: "Odabrane rezidencije između Zagreba i Jadrana."
 - Supporting English copy: "Curated residences between Zagreb and the Adriatic."
 - Tone: quiet confidence, precise advice, discretion, local knowledge, international fluency. Never loud, salesy, generic or opulent for its own sake.
-- Logo: use the exact supplied AVEORA Brand Asset in every logo position. The mark combines a stone arch with a restrained Adriatic horizon. Never replace it with initials, emoji, generic house icons, an invented SVG or text alone.
+- Wordmark direction: set “AnaMarija” as the expressive editorial name and “ESTATES” as a smaller, widely tracked descriptor. Preserve a confident mixed-case spelling—never collapse it to generic initials or an all-caps template wordmark.
+- Logo: use the exact supplied AnaMarija Estates Brand Asset in every logo position. The mark combines a stone arch with a restrained Adriatic horizon. Never replace it with initials, emoji, generic house icons, an invented SVG or text alone.
 
 ## Color system
 
@@ -43,7 +44,7 @@ No blue action color, pure black sections, neon colors, gradients or glossy effe
 
 - Desktop content grid: maximum 1320px, 12 columns, 24–32px gutters. Mobile horizontal padding: 20px.
 - Header is an ivory or transparent-to-ivory architectural bar, never a copy of the old full-width transparent navigation. Logo left, concise navigation center/right, outlined contact CTA and HR/EN switch.
-- Hero is the signature “Mediterranean editorial gateway”: approximately 90svh on warm ivory in a 12-column grid, with editorial copy in the left five columns and one cinematic property image in the right seven columns. The image begins below the navigation and may use exactly one large arched corner to echo the AVEORA stone-arch mark; this large radius is exclusive to the hero image.
+- Hero is the signature “Mediterranean editorial gateway”: approximately 90svh on warm ivory in a 12-column grid, with editorial copy in the left five columns and one cinematic property image in the right seven columns. The image begins below the navigation and may use exactly one large arched corner to echo the AnaMarija stone-arch mark; this large radius is exclusive to the hero image.
 - A sand-colored concierge search console sits inside the lower-left third and crosses roughly one grid column into the photograph without hanging below the section. It contains Buy/Rent, Location, Property type, Budget and one primary search action. Use quiet borders, strong focus states and no heavy shadow, glass effect or excessive card treatment.
 - Add one restrained vertical editorial index `01 / SELECTED RESIDENCES` beside the photograph and one tiny image caption; these are the only decorative metadata in the hero.
 - Featured properties use an editorial grid with one larger lead card and smaller supporting cards rather than three identical cards.
@@ -86,4 +87,4 @@ No blue action color, pure black sections, neon colors, gradients or glossy effe
 
 ## Fidelity constraint
 
-Use ONLY the fonts, colors, spacing, corner treatment and component styles defined in this AVEORA design system. Do not introduce blue, black-heavy sections, DM Sans, Questa, Eurovilla assets, centered slogan-over-hero composition, identical three-column cards, gradients, invented brand claims or any other recognizable Eurovilla design signature.
+Use ONLY the fonts, colors, spacing, corner treatment and component styles defined in this AnaMarija Estates design system. Do not introduce blue, black-heavy sections, DM Sans, Questa, Eurovilla assets, centered slogan-over-hero composition, identical three-column cards, gradients, invented brand claims or any other recognizable Eurovilla design signature.

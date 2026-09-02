@@ -1,6 +1,8 @@
-# AVEORA Estates
+# AnaMarija Estates
 
-Premium real-estate concept website for curated residences between Zagreb and the Adriatic.
+A refined real-estate experience for curated residences between Zagreb and the Adriatic.
+
+The interface is bilingual (HR/EN), opens in Croatian by default and lets visitors switch languages from the site navigation.
 
 ## Local development
 
@@ -31,6 +33,6 @@ The repository includes `vercel.json`, so the build and output settings are alre
 
 - Replace placeholder contact and legal company details.
 - Connect the inquiry form to an approved email, CRM or serverless endpoint.
-- Complete the Croatian routes and legal pages.
+- Review the Croatian-default and English versions of every route and legal page with the final commercial copy.
 - Replace demo listings and confirm the rights for every image listed in `ASSET_SOURCES.md`.
 - Remove the demo notice and `noindex`/`robots.txt` block only after those items are complete.
