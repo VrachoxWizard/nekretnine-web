@@ -15,12 +15,30 @@
   <script type="module" src="/src/main.js"></script>
 </head>
 <body>
+  <svg aria-hidden="true" focusable="false" width="0" height="0" class="absolute overflow-hidden">
+    <defs>
+      <symbol id="anamarija-estates-logo" viewBox="0 0 360 96">
+        <g fill="none" stroke="#233D32" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+          <path d="M14 79V42C14 20 30 7 51 7s37 13 37 35v37"/>
+          <path d="M27 79V44c0-14 10-24 24-24s24 10 24 24v35" opacity=".52"/>
+          <path d="M14 79h74"/>
+        </g>
+        <path d="M25 63c15-7 33-7 52 0" fill="none" stroke="#A85D3C" stroke-width="3" stroke-linecap="round"/>
+        <g fill="#233D32" text-rendering="geometricPrecision">
+          <text x="112" y="56" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="500" letter-spacing=".7">AnaMarija</text>
+          <text x="115" y="80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="5.4">ESTATES</text>
+        </g>
+      </symbol>
+    </defs>
+  </svg>
   <a href="#main-content" data-i18n="skipToContent" class="sr-only z-[100] bg-[#233D32] px-4 py-3 text-white focus:not-sr-only focus:fixed focus:left-4 focus:top-4">Preskoči na sadržaj</a>
   <div id="top" class="min-h-screen overflow-x-hidden bg-[#F8F5EF] font-manrope text-[#18201C]">
     <header class="site-header relative z-50 border-b border-[#D6CFC3] bg-[#F8F5EF]">
       <nav class="mx-auto flex h-[82px] max-w-[1400px] items-center justify-between px-5 md:px-8 xl:h-[88px]" data-i18n="mainNavigation" data-i18n-attr="aria-label" aria-label="Glavna navigacija">
         <a id="header-logo-link" href="#top" class="block w-[154px] shrink-0 sm:w-[204px] xl:w-[218px]" data-i18n="homeLabel" data-i18n-attr="aria-label" aria-label="Početna stranica AnaMarija Estates">
-          <img src="/brand/aveora-logo.svg" data-i18n="brandName" data-i18n-attr="alt" alt="AnaMarija Estates" class="h-auto w-full">
+          <svg viewBox="0 0 360 96" aria-hidden="true" focusable="false" class="h-auto w-full">
+            <use href="#anamarija-estates-logo"/>
+          </svg>
         </a>
         <div class="hidden items-center gap-8 text-[12px] font-semibold text-[#233D32] xl:flex">
           <a id="nav-properties-link" href="#properties" data-i18n="residences" class="border-b border-transparent py-2 transition-colors duration-200 hover:border-[#A85D3C]">Rezidencije</a>
@@ -304,7 +322,7 @@
     <footer class="border-t border-white/20 bg-[#233D32] px-5 py-10 text-white md:px-8">
       <div class="mx-auto max-w-[1400px]">
         <div class="flex flex-col justify-between gap-10 md:flex-row md:items-start">
-          <a id="footer-logo-link" href="#top" class="block w-[210px]" data-i18n="homeLabel" data-i18n-attr="aria-label" aria-label="Početna stranica AnaMarija Estates"><img src="/brand/aveora-logo.svg" data-i18n="brandName" data-i18n-attr="alt" alt="AnaMarija Estates" class="h-auto w-full brightness-0 invert"></a>
+          <a id="footer-logo-link" href="#top" class="block w-[210px]" data-i18n="homeLabel" data-i18n-attr="aria-label" aria-label="Početna stranica AnaMarija Estates"><svg viewBox="0 0 360 96" aria-hidden="true" focusable="false" class="h-auto w-full brightness-0 invert"><use href="#anamarija-estates-logo"/></svg></a>
           <div class="grid grid-cols-2 gap-x-10 gap-y-1 text-[12px] font-semibold text-white/75 sm:grid-cols-4"><a id="footer-properties-link" href="#properties" data-i18n="residences" class="min-h-11 py-3 hover:text-white">Rezidencije</a><a id="footer-services-link" href="#services" data-i18n="advisory" class="min-h-11 py-3 hover:text-white">Savjetovanje</a><a id="footer-privacy-link" href="#demo-notice" data-i18n="privacy" class="min-h-11 py-3 hover:text-white">Privatnost</a><a id="footer-terms-link" href="#demo-notice" data-i18n="terms" class="min-h-11 py-3 hover:text-white">Uvjeti</a></div>
         </div>
         <div class="mt-10 flex flex-col justify-between gap-4 border-t border-white/20 pt-6 text-[10px] leading-5 text-white/60 md:flex-row md:items-center"><p data-i18n="copyright">© 2026 AnaMarija Estates. Konceptni demo.</p><p id="demo-notice" data-i18n="demoNotice" class="border border-white/25 px-3 py-1.5 text-[9px] font-semibold uppercase tracking-[0.14em] text-white/70">Ogledni oglasi i privremeni podaci o tvrtki — nije komercijalna ponuda</p><div class="flex items-center gap-2 font-semibold"><a id="footer-language-hr-link" href="/" data-language="hr" lang="hr" hreflang="hr" aria-label="Hrvatski" aria-current="page" class="min-h-11 border-b border-[#E7DDD0] py-3 text-white transition-colors hover:text-white">HR</a><span>/</span><a id="footer-language-en-link" href="?lang=en" data-language="en" lang="en" hreflang="en" aria-label="English" class="min-h-11 border-b border-transparent py-3 text-white/60 transition-colors hover:text-white">EN</a></div></div>
